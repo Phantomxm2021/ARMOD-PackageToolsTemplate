@@ -1,0 +1,54 @@
+{
+    "Templates": [
+        {
+            "TemplateDisplayName": "BLANK",
+            "TemplateName": "BlankTemplate",
+            "TemplateDescription": "Create a blank project and make an AR experience from scratch.",
+            "TemplateIcon": "Blank",
+            "TemplatePath": "",
+            "TemplateAuthor": "",
+            "TemplateLicense": "",
+            "ID": 0
+        },
+        {
+            "TemplateDisplayName": "IKEA Style",
+            "TemplateName": "IKEAStyleTemplate",
+            "TemplateDescription": "IKEA Style lets you virtually place true-to-scale 3D models in your very own space. And allows you to quickly create an AR experience like it. ",
+            "TemplateIcon": "IKEAStyle",
+            "TemplatePath": "",
+            "TemplateAuthor": "",
+            "TemplateLicense": "",
+            "ID": 1
+        },
+        {
+            "TemplateDisplayName": "IMAGE TRACKING",
+            "TemplateName": "ImageTrackingTemplate",
+            "TemplateDescription": "Image tracking, which links the AR virtual body and Image together, and when the picture moves, the virtual body will also move with it.",
+            "TemplateIcon": "ImageTracking",
+            "TemplatePath": "",
+            "TemplateAuthor": "",
+            "TemplateLicense": "",
+            "ID": 2
+        },
+        {
+            "TemplateDisplayName": "Glasses try-on",
+            "TemplateName": "GlassesTryOnTemplate",
+            "TemplateDescription": "Let users wear glasses through face tracking. Using this template to create the developer only needs to replace the glasses model of the object.",
+            "TemplateIcon": "Glassestryon",
+            "TemplatePath": "",
+            "TemplateAuthor": "",
+            "TemplateLicense": "",
+            "ID": 4
+        },
+        {
+            "TemplateDisplayName": "PROTAL AR",
+            "TemplateName": "PortalARTemplates",
+            "TemplateDescription": "Portal AR allows you to literally step into other place, where you can experience an amazing array of 360o videos or images. ",
+            "TemplateIcon": "PortalAR",
+            "TemplatePath": "",
+            "TemplateAuthor": "",
+            "TemplateLicense": "",
+            "ID": 7
+        }
+    ]
+}
